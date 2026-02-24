@@ -1,0 +1,14 @@
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\bin\Debug\net10.0\Proyecto web.exe
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\bin\Debug\net10.0\Proyecto web.deps.json
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\bin\Debug\net10.0\Proyecto web.runtimeconfig.json
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\bin\Debug\net10.0\Proyecto web.dll
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\bin\Debug\net10.0\Proyecto web.pdb
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\Proyecto web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\Proyecto web.AssemblyInfoInputs.cache
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\Proyecto web.AssemblyInfo.cs
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\Proyecto web.csproj.CoreCompileInputs.cache
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\Proyecto web.dll
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\refint\Proyecto web.dll
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\Proyecto web.pdb
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\Proyecto web.genruntimeconfig.cache
+C:\Users\2 BACH\source\repos\TIC Trabajos\Web\Proyecto web\Proyecto web\obj\Debug\net10.0\ref\Proyecto web.dll

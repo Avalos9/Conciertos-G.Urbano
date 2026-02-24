@@ -1,0 +1,128 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Información ampliada sobre los artistas de los conciertos en España 2026">
+    <meta name="keywords" content="Artistas, Conciertos 2026, España">
+    <meta name="author" content="Hugo Ávalos Montané">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Artistas – Conciertos España 2026</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+    <nav class="menu-principal">
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="dos.html">Artistas</a></li>
+            <li><a href="#badbunny">Bad Bunny</a></li>
+            <li><a href="#eladio">Eladio Carrión</a></li>
+            <li><a href="#rosalia">Rosalía</a></li>
+            <li><a href="#quevedo">Quevedo</a></li>
+            <li><a href="entradas.html">Entradas</a></li>
+        </ul>
+    </nav>
+
+
+    <section class="featured">
+        <h2>Artista destacado</h2>
+        <p>
+            Bad Bunny lidera el panorama musical en 2026 con una gira histórica en España, consolidándose como uno de los artistas más influyentes de la música actual.
+        </p>
+    </section>
+
+
+    <header>
+        <h1>Conciertos en España 2026</h1>
+        <p>
+            Información ampliada sobre los artistas confirmados,
+            trayectoria musical y detalles de sus espectáculos.
+        </p>
+        <img src="imagenes/concierto.jpg" alt="Público asistiendo a un concierto en directo">
+    </header>
+
+    <main>
+
+        <section class="intro">
+            <h2>Perfil de los artistas</h2>
+            <p>
+                A continuación se presenta información más detallada sobre
+                los artistas que recorrerán España durante 2026.
+            </p>
+        </section>
+
+        <section id="badbunny">
+            <h2>Bad Bunny</h2>
+            <p>
+                Artista puertorriqueño referente mundial del género urbano.
+                Su puesta en escena destaca por la innovación visual y
+                la conexión con el público.
+            </p>
+            <p>
+                En 2026 presentará un espectáculo renovado con nuevos
+                efectos visuales y repertorio actualizado.
+            </p>
+        </section>
+
+        <section id="eladio">
+            <h2>Eladio Carrión</h2>
+            <p>
+                Especialista en rap y trap latino, combina letras profundas
+                con ritmos potentes.
+            </p>
+            <p>
+                Su gira incluirá producción audiovisual mejorada y colaboraciones
+                sorpresa en algunas ciudades.
+            </p>
+        </section>
+
+        <section id="rosalia">
+            <h2>Rosalía</h2>
+            <p>
+                Artista española con reconocimiento internacional.
+                Fusiona flamenco tradicional con sonidos contemporáneos.
+            </p>
+            <p>
+                Su espectáculo incorpora coreografías, iluminación artística
+                y una identidad visual marcada.
+            </p>
+        </section>
+
+        <section id="quevedo">
+            <h2>Quevedo</h2>
+            <p>
+                Uno de los artistas más escuchados en España en los últimos años.
+                Su estilo combina reguetón y música urbana.
+            </p>
+            <p>
+                En 2026 incluirá nuevas canciones junto a sus grandes éxitos.
+            </p>
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>© 2026 Conciertos España · Todos los derechos reservados</p>
+    </footer>
+    <a href="#" id="subir-arriba">
+        <img src="imagenes/flecha.png" alt="Subir arriba">
+    </a>
+    <script>
+    const subir = document.getElementById('subir-arriba');
+
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 200) {  
+            subir.style.display = 'block';
+        } else {
+            subir.style.display = 'none';
+        }
+    });
+    </script>
+
+</body>
+</html>
